@@ -1,0 +1,154 @@
+body{
+	text-align: center;
+	height: 100%;
+}
+
+html{
+	height: 100%;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.color{
+	background-color: #00C8FF;
+	top: 0px;
+	height: 150px;
+	z-index: 1;
+	position: fixed;
+	width: 100%;
+	padding: 25px;
+}
+
+.header{
+	text-align: center;
+}
+
+.logo{
+	height: 100px;
+	/*!background-color: gray;*/ 
+	float: left;
+}
+
+.estres{
+	width: 100px;
+	height: 100px;
+	/*!background-color: gray;*/ 
+	float: right;
+	padding-top: 20px;
+}
+
+.video{
+	text-align: center;
+	width: 100%;
+	margin-top: 175px;
+	margin-bottom: 25px;
+}
+
+.title{
+	font-family: Helvetica, "Helvetica Neue", "Arial", "sans-serif";
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 40pt;
+}
+
+.paragraph{
+	font-family: Helvetica, "Helvetica Neue", "Arial", "sans-serif";
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15pt;
+	text-align: justify;
+}
+
+.subtitle{
+	font-family: Helvetica, "Helvetica Neue", "Arial", "sans-serif";
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20pt;
+	text-align: left;
+}
+
+.space{
+	height: 25px;
+}
+
+.image{
+	background-color: gray;
+	width: 100%;
+}
+.image2{
+	background-color: gray;
+	height: 300px;
+	width: 100%;
+}
+
+.bckimage{
+	background-image: url("../image/stress.png");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center
+		
+}
+
+.footer{
+	background-color: #00C8FF;
+	height: 50px;
+	width: 100%;
+	padding: 25px;
+}
+
+.menu{
+	margin-top: 25px;
+	text-align: center;
+	width: 100%;
+	float: left;
+}
+
+.icon{
+	margin-bottom: 25px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17pt;
+	text-align: center;
+	color: white;
+}
+
+.cabecera{
+	background-color: #00C8FF;
+	top: 0px;
+	height: 150px;
+	width: 100%;
+	padding: 25px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.footer{
+	background-color: #00C8FF;
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+	vertical-align: bottom;
+}
+
+.preguntas{
+	margin-bottom: 35px;
+}
+
+.answer{
+	width: 80%;
+	text-align: center;
+	margin-top: 10px
+}
+
+.end{
+	position: fixed;
+	bottom: 0px;
+}
+
+.iconspace{
+	padding-bottom: 20px;
+}
